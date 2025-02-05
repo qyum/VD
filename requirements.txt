@@ -1,0 +1,25 @@
+fastapi
+matplotlib
+opencv_python
+pdf2image
+Pillow
+pydantic
+pytesseract
+tenacity
+uvicorn
+numpy
+scipy
+Pillow
+cython
+matplotlib
+scikit-image
+tensorflow==1.13.1  #TensorFlow version: 1.13.1
+                   #Keras version: 2.2.4
+keras==2.2.4
+opencv-python
+h5py
+imgaug
+IPython[all]
+python-multipart
+joblib
+scikit-image
