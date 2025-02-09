@@ -2,7 +2,7 @@ How to run the server: This is a fastapi server that takes in request from the a
 
     1.download & install python version==3.7,tensorflow ==1.13.0 and keras == 2.2.4
 
-    2.git clone https://qyum19970@bitbucket.org/techboomai-dev/visiondetection.git
+    2.git clone https://github.com/qyum/VD.git
 
     3.Create a virtual environment & activate it in python.
 
